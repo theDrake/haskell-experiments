@@ -1,2 +1,2 @@
 # haskell-experiments
-A repository for my experiments with the Haskell programming language.
+A repository for some of my experiments with the [Haskell](https://en.wikipedia.org/wiki/Haskell) programming language.
